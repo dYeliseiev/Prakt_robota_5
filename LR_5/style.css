@@ -1,0 +1,50 @@
+html{
+    background-color: orange;
+}
+body{
+
+ 
+    background-color: wheat;   
+ width: 600px; 
+ border: 2px solid black;
+ margin: 0 auto;
+ padding: 2px 30px 35px 60px; 
+}
+ h1{
+   font-size: 60px;
+   text-align: center;
+   color: coral;  
+   letter-spacing: 6px;
+   text-shadow: 3px 6px 1px lightskyblue;
+
+ }
+
+ p{
+   font-size: 16px ;
+   color: yellowgreen;
+   line-height: 2;
+   initial-letter: 2px;
+   
+   
+ }
+ img{
+     display: block;
+     width: 50% ;
+     margin: 0 auto;
+
+ }
+  ul,ol{
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+li{
+   line-height: 1.5; 
+}
+ol{
+    list-style-type: upper-roman;
+    list-style-position: inside;
+}
+ul{
+    padding-left: 2rem;
+    list-style-type: circle;
+}
